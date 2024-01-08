@@ -30,7 +30,8 @@ float:left;
  <body>
 
  <ul>
-   <li><a class="active" herf="#news">NEW</a></li>
+   <li><a class="active" herf="#home">Home</a></li>
+   <li><a href="#news">News</a></li>
    <li><a herf="#Contcat"</a></li>
      <li><a href="#about">About</a></li>
  </ul>
